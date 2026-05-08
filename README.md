@@ -1,4 +1,4 @@
-## Hi there 👋
+[**Hackatime**](https://github-readme-stats.hackclub.dev/api/wakatime?username=33581&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 <!--
 **Xtimate/Xtimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
